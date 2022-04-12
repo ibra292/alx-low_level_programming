@@ -6,7 +6,7 @@
   */
 int main(void)
 {
-	print_alphabet_x10()
+	print_alphabet_x10();
 {
 	int i;
 	char c;
