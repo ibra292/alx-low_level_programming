@@ -6,7 +6,7 @@
  * Return: void
  */
 
-void print_alphabet(const char *name)
+void print_alphabet(const char)
 {
 	char letter = 'a';
 
