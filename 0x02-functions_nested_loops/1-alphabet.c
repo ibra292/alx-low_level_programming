@@ -6,7 +6,7 @@
  * Return: void
  */
 
-void print_alphabet(void)(int , float)
+void print_alphabet(int , float)
 {
 	char letter = 'a';
 
