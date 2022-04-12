@@ -6,7 +6,7 @@
  * Return: void
  */
 
-void print_alphabet(float , float )
+void print_alphabet(void)
 {
 	char letter = 'a';
 
@@ -16,4 +16,6 @@ void print_alphabet(float , float )
 		letter++;
 	}
 	putchar('\n');
+	
+	return (0);
 }
