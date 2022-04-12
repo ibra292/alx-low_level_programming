@@ -1,9 +1,9 @@
-#include "0-putchar.h"
+/**#include "0-putchar.c"
 
-/**
- * main - prints putchar
+
+ * main - prints _putchar
  *
- * Description: prints putchar
+ * Description: prints _putchar
  *
  * Return: 0 (Success)
  */
